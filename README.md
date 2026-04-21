@@ -15,3 +15,4 @@ Run the script and enter:
 ## Example
 If Principal = 1000, Rate = 5%, Time = 2 years  
 Simple Interest = 100
+Fix typo
